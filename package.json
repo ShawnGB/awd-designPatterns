@@ -1,0 +1,27 @@
+{
+  "name": "awd-designpatterns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "ts-node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShawnGB/awd-designPatterns.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ShawnGB/awd-designPatterns/issues"
+  },
+  "homepage": "https://github.com/ShawnGB/awd-designPatterns#readme",
+  "devDependencies": {
+    "@types/node": "^24.10.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
